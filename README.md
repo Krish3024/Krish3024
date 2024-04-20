@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krish3024
 - 👀 I’m interested in coding and web-development
-- 🌱 I’m currently learning React and DSA
+- 🌱 I’m currently learning React-JS and DSA
 - 📫 Your can react me at krishsah5216@gmail.com / 7440965103
 - ⚡ Fun fact: I love good food 
 
